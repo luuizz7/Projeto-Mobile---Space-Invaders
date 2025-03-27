@@ -124,7 +124,5 @@ Não suporta modelos de telefone muito antigos
 Limitação de controles
 
 
-💻 Desenvolvedores
-[Luiz Henrique da Silva Pereira] - Programação e Design
-[Miguel Luís Gomes de Melo] - Programação e Design
-[Luís Gustavo Novaes dos Santos] - Programação e Design
+# 💻 Desenvolvedores
+<h2 Luiz Henrique da Silva Pereira, Miguel Luís Gomes de Melo, Luís Gustavo Novaes dos Santos

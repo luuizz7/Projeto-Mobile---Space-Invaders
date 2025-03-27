@@ -43,7 +43,14 @@ Otimização: Consumo de bateria eficiente
 Controles: Responsivos e otizimados
 
 # 📑 Matrizes de Requisitos
-(Inserir tabelas específicas para seu projeto aqui)
+
+<h2> Matriz de Requisitos Gerais
+  
+![image](https://github.com/user-attachments/assets/0208ced6-4181-4867-b07e-22a92ebdf8cf)
+
+<h2> Matriz de Requisitos Funcionais
+
+![image](https://github.com/user-attachments/assets/da9f5a58-c9c3-44c5-aee6-76111e0e2476)
 
 # 📱 Mockup do Jogo
 (Inserir imagens ou links para protótipos de tela)

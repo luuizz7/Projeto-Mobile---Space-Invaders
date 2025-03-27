@@ -125,4 +125,4 @@ Limitação de controles
 
 
 # 💻 Desenvolvedores
-<h2 Luiz Henrique da Silva Pereira, Miguel Luís Gomes de Melo, Luís Gustavo Novaes dos Santos
+<h2> Luiz Henrique da Silva Pereira, Miguel Luís Gomes de Melo, Luís Gustavo Novaes dos Santos <h2>
